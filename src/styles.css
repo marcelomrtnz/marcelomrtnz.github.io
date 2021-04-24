@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.d-flex {
+  display: flex!important;
+}
+.align-items-center {
+  align-items: center!important;
+}
+.justify-content-around {
+  justify-content: space-around!important;
+}

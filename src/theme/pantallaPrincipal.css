@@ -1,0 +1,13 @@
+:root {
+  --width-app-icon: 48px
+}
+
+.icono-de-aplicacion {
+  width: var(--width-app-icon);
+  height: var(--width-app-icon);
+}
+
+.options-icon {
+  color: white!important;
+  font-size: 48px!important;
+}
